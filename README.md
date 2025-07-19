@@ -9,7 +9,4 @@ A simple HTML and CSS project that recreates the landing page of the UltraEdit t
 ## Files
 UltraEditSite.html – Main HTML file
 <br>
-UltraEditSite.css – Stylesheet for the page
-
----
-This project is for educational and practice purposes only.
+UltraEditSite.css – Stylesheet for the page.
