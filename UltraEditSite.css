@@ -1,0 +1,71 @@
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100&display=swap');
+  *{
+    font-family: 'Open Sans', sans-serif;
+  }
+a{
+    text-decoration: none;
+    color: #737272;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size:16px;
+    padding-top: 12px;
+    margin-bottom: 40px;
+}
+.right ul li {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+.right ul {
+    display: flex;
+    gap: 34px;
+    
+
+}
+.logo .ultraedit{
+    height: 68px;
+    width: 165px;
+    margin-right: 190px;
+}
+#language{
+    /* width: 1.5em; */
+    padding-top: 10px;
+}
+.intro{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-content: center ;
+}
+h1{
+    font-weight: 200;
+    font-size: 50px;
+}
+h3{
+font-weight: 200;
+font-size: 24px;
+margin-bottom: 40px;
+}
+#adjust{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    padding:18px 23px ;
+    background-color: #00B6D1;
+    font-size: 14px;
+    color: white;
+    font-weight: 550;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-bottom: 45px;
+}
+.button:hover{
+    background-color: #03aac4;
+}
+
